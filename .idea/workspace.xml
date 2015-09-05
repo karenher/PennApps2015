@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890b1c22-8e09-4bae-b4bd-08946499bb3b" name="Default" comment="" />
+    <list default="true" id="890b1c22-8e09-4bae-b4bd-08946499bb3b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PicTalk/.idea/misc.xml" afterPath="$PROJECT_DIR$/PicTalk/.idea/misc.xml" />
+    </list>
     <ignored path="PennApps2015.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
